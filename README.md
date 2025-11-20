@@ -1,7 +1,9 @@
-### 👨🏽‍💻 Hello world, I'm Rodrigo Gouveia
+Hi there 👋 I'm Software Developer at [HST](https://hst.com.br/pt-br/). 
 
-- 💻 Software Developer at [HST Card Technology](https://hst.com.br/pt-br/)
-- 🗂️ Creating softwares for over 6 years 
-- 📫 How to reach me: rgestevao@gmail.com
+With over 5 years of professional experience, I have contributed to numerous projects in various areas, ranging from payment processing and financial transactions to healthcare management systems.
 
-Find me: [LinkedIn](https://www.linkedin.com/in/rodrigo-gouveia-estevao/) | [Instagram](https://www.instagram.com/rodrigoge_)
+In addition to contributing to open-source projects, I have experience in general software development, from architecture to the final product.
+
+For a more detailed description of my professional experience, academic background, and certifications, you can find me on [LinkedIn](https://www.linkedin.com/in/rodrigo-gouveia-estevao/). I am also available for contact via email: rgestevao@gmail.com.
+
+How to reach me [rodrigoge-web.vercel.app](rodrigoge-web.vercel.app)
