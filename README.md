@@ -6,4 +6,4 @@ In addition to contributing to open-source projects, I have experience in genera
 
 For a more detailed description of my professional experience, academic background, and certifications, you can find me on [LinkedIn](https://www.linkedin.com/in/rgestevao/). I am also available for contact via email: rgestevao@gmail.com.
 
-How to reach me [rodrigoge-web.vercel.app](rodrigoge-web.vercel.app)
+How to reach me [rodrigoge-web.vercel.app](https://rgestevao.vercel.app/)
